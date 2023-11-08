@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Taufan Harry..
+My Full Name is Mochamad Taufan Harry Sakti Ruchendi but you can call me Taufan Harry. Thank you..!
 
 <!--
 **TaufanHarry/TaufanHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
