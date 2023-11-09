@@ -1,6 +1,10 @@
 ### Hi there 👋
-My Full Name is Mochamad Taufan Harry Sakti Ruchendi but you can call me Taufan Harry. Thank you..!
+Welcome to My Portfolio! I'm Taufan Harry, I am a professional employee at a water treatment company.
 
+- 🌱 I’m currently learning about Data Science.
+- 👯 I’m looking to collaborate on small project to improve my knowledge in water treatment and Data Science field.
+- Ask me about anything and i am happy to help!
+- 📫 How to reach me: mochtaufanharisakti@gmail.com
 <!--
 **TaufanHarry/TaufanHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
