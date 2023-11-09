@@ -1,9 +1,9 @@
 ### Hi there 👋
-Welcome to My Portfolio! I'm Taufan Harry, I am a professional employee at a water treatment company.
+Welcome to My Portfolio! I'm Taufan Harry, I'm a water treatment professional.
 
-- 🌱 I’m currently learning about Data Science.
-- 👯 I’m looking to collaborate on small project to improve my knowledge in water treatment and Data Science field.
-- Ask me about anything and i am happy to help!
+- 🌱 I'm currently learning data science.
+- 👯 I'm looking to collaborate on small projects to improve my knowledge in water treatment and data science.
+- 💬 Ask me about anything, and I'm happy to help!
 - 📫 How to reach me: mochtaufanharisakti@gmail.com
 <!--
 **TaufanHarry/TaufanHarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
